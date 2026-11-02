@@ -1,0 +1,8 @@
+{
+  "name": "MY OPEN WORLD PAKISTAN - 3D Adventure & Life Simulator",
+  "description": "High-quality 3D Open World Adventure and Life Simulator game set in Pakistan with connected village and modern city, vehicles, missions, dynamic weather, and character customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
